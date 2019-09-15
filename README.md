@@ -4,7 +4,7 @@
 
 ``` bash
 # repo'yu bilgisayarınıza çekin
-$ git clone https://....
+$ git clone https://github.com/suleymandtr/frontend-assignment.git
 
 # npm bağımlılıklarını yükleyin
 $ npm install
