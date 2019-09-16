@@ -1,6 +1,6 @@
 module.exports = {
   lintOnSave: false,
-	css: {
+  css: {
     loaderOptions: {
       sass: {
         data: `
