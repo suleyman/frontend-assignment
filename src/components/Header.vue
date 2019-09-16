@@ -7,3 +7,13 @@
     </header>
   </div>
 </template>
+
+<style lang="scss" scoped>
+@media only screen and (max-width:36rem) {
+  .header {
+    &__logo {
+      font-size: 1rem;
+    }
+  }
+}
+</style>
